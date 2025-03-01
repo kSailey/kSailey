@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kSailey
 - 👀 I’m interested in working in data analysis within insurance.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on expanding my repitorie and use of R, Python, Access, R, SAS, & SQL
+- 💞️ I’m looking to collaborate on expanding my repertoire and use of R, Python, Access, R, SAS, & SQL
 - 📫 How to reach me katbag2010@gmail.com
 
 
